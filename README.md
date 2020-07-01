@@ -9,7 +9,8 @@ Con la formalización del análisis matemático (consecuencia de una tesis de do
 
 A pesar de lo anterior el estudio de los llamados _sistemas dinámicos_ no se detuvo y es que para este momento (elige algún año del siglo pasado antes de 1950) el reduccionismo permeaba todo y se pensaba que si contruíamos un sistema de ecuaciones diferenciales para describir un fénomeno y conociamos las condiciones iniciales podríamos conocer de manera absoluta el sistema hacia el futuro y el pasado. Imaginen la gran sorpresa y conmoción que causó encontrar sitemas que eran deterministas y cuyo comporamiento hacia el futuro y pasado no podía ser determinado únicamente con las condiciones inicales, así es, llego el **caos**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rz2yEMeKZuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rz2yEMeKZuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 
 
 En este curso a través de métodos formales y otros no tanto, además de los computacionales, vamos a explorar, desenrredar y estudiar cada una de las secciones de la historia anterior. A través de ejemplos, unos más modernos y otros más de juguete, vamos a presentar y resolver dudas a la par de que planteamos nuevas también.
