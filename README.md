@@ -29,34 +29,34 @@ Se pretende que el estudiante, en compañía de los intructores y en tiempos bie
 
 # Temario
 1. Ecuaciones diferenciales lineales y no lineales:
-  1. Ecuaciones en diferencias y método de Euler.
-  2. EDOs autónomas y sus espacios vectoriales
-  3. EDOs no-autónomas y sus espacios vectoriales
-  4. EDOs autónomas no lineales
-  5. Mapeo de Poincaré
-  6. Teorema de existencia y unicidad.
+    1. Ecuaciones en diferencias y método de Euler.
+    2. EDOs autónomas y sus espacios vectoriales
+    3. EDOs no-autónomas y sus espacios vectoriales
+    4. EDOs autónomas no lineales
+    5. Mapeo de Poincaré
+    6. Teorema de existencia y unicidad.
 2. Sistemas de ecuaciones:
-  1. Ecuaciones diferenciales de orden mayor
-  2. Reducción de orden y sistemas lineales
-  3. Sistemas no lineales
-  4. Linearización y estabilidad local
-  5. Perturbaciones pequeñas: Sitemas rápidos-lentos
-  6. Una Introducción al Caos: Lorentz, Rössler y Chua.
+    1. Ecuaciones diferenciales de orden mayor
+    2. Reducción de orden y sistemas lineales
+    3. Sistemas no lineales
+    4. Linearización y estabilidad local
+    5. Perturbaciones pequeñas: Sitemas rápidos-lentos
+    6. Una Introducción al Caos: Lorentz, Rössler y Chua.
 3. Análisis de estabilidad:
-  1. Estabilidad Local y sus limitaciones
-  2. Hacia la estabilidad global
-  3. Estabilidad de Lyapunov
-  4. Teoremas de Lyapunov
-  5. Un análisis de estabilidad estructural
+    1. Estabilidad Local y sus limitaciones
+    2. Hacia la estabilidad global
+    3. Estabilidad de Lyapunov
+    4. Teoremas de Lyapunov
+    5. Un análisis de estabilidad estructural
 4. Sistemas disipativos y conservativos:
-  1. Funciones de Lyapunov en sistemas especiales
-  2. Hamiltonianos, Lyapunov y Estabilidad
-  3. Sistemas conservativos, hamiltonianos y Lagrange.
-  4. Hacias las cantidades conservadas
+    1. Funciones de Lyapunov en sistemas especiales
+    2. Hamiltonianos, Lyapunov y Estabilidad
+    3. Sistemas conservativos, hamiltonianos y Lagrange.
+    4. Hacias las cantidades conservadas
 5. Introducción al análisis de simetrías:
-  1. Superficies y grupos de Lie.
-  2. Simetrías y grupos.
-  3. Simetrías y cantidades conservadas.
+    1. Superficies y grupos de Lie.
+    2. Simetrías y grupos.
+    3. Simetrías y cantidades conservadas.
 
 
 # Bibliografía básica
