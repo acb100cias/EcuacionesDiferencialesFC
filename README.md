@@ -1,6 +1,8 @@
-## TEMARIO ##
+# Ecuaciones Diferenciales Ordinarias I
+## Augusto Cabrera-Becerril y Ulises Rayón.
 
-1.Ecuaciones diferenciales lineales y no lineales de primer orden
+# Temario
+1. Ecuaciones diferenciales lineales y no lineales de primer orden
 2. Sistemas de ecuaciones de primer orden lineales y no lineales. Análisis cualitativo y una introducción al caos.
 3. Análisis de estabilidad (Estabilidad de Liapunov)
 4. Sistemas disipativos y conservativos (Sistemas Hamiltonianos y cantidades conservadas)
