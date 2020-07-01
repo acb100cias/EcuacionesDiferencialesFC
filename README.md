@@ -11,6 +11,7 @@ A pesar de lo anterior el estudio de los llamados _sistemas dinámicos_ no se de
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rz2yEMeKZuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 En este curso a través de métodos formales y otros no tanto, además de los computacionales, vamos a explorar, desenrredar y estudiar cada una de las secciones de la historia anterior. A través de ejemplos, unos más modernos y otros más de juguete, vamos a presentar y resolver dudas a la par de que planteamos nuevas también.
 
 Se pretende que el estudiante, en compañía de los intructores y en tiempos bien pensados, explore y aprenda nuevas herramientas no solo de índole analítica.
