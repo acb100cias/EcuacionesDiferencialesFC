@@ -1,7 +1,7 @@
 # Ecuaciones Diferenciales Ordinarias I
 ## Augusto Cabrera-Becerril y Ulises Rayón.
 
-Siguiendo el temario oficial de la facultad añadimos algunas temas que creemos necesarios para poder dar una introducción completa al estudio de las ecuaciones diferenciales desde la perspectiva de los sistemas dinámicos y pensando en los computadores como herramienta de estudio de los mismos.
+Para este curso tomamos como base el temario oficial de la facultad y le realizamos modificaciones que creemos necesarias para poder dar una introducción completa al estudio de las ecuaciones diferenciales desde la perspectiva de los sistemas dinámicos, la cual creemos es más rica desde las estructuras hasta las aplicaciones.
 
 Una entrada al las ecuaciones diferencales es el concepto de la _antiderivada_, bien explorada por Newton y sus contemporáneos en la explosión de la formalización del cálculo diferencial. Ahí, como una chispa, surgen las ecuaciones diferenciales y aunque ya existían sistemas para los cuales construir la antiderivada o _solución analítica_ era una aplicación del segundo teorema fundamental del cálculo para otros mucho eso era algo inimaginable y se optaban por métodos de aproximación llamados _soluciones númericas_.
 
