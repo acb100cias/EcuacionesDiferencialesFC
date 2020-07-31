@@ -9,11 +9,10 @@ Con la formalización del análisis matemático (consecuencia de una tesis de do
 
 A pesar de lo anterior el estudio _sistemas dinámicos_ no se detuvo y es que para este momento (elige algún año del siglo pasado antes de 1950) el reduccionismo permeaba todo y se pensaba que de poder construir un sistema de ecuaciones diferenciales para describir un fénomeno y conociendo las condiciones iniciales podríamos conocer de manera absoluta el sistema hacia el futuro y el pasado. Imaginen la gran sorpresa y conmoción que causó encontrar sitemas que eran deterministas y cuyo comporamiento hacia el futuro y pasado no podía ser determinado únicamente con las condiciones inicales, así es, llego el **caos**.
 
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Rz2yEMeKZuE/0.jpg)](https://www.youtube.com/watch?v=Rz2yEMeKZuE)
 
 En este curso a través de métodos formales, otros no tanto y métodos computacionales vamos a explorar, desenrredar y estudiar cada una de las secciones de la historia anterior y será que a través de ejemplos, unos más modernos y otros más de juguete, vamos a presentar y resolver dudas sin dejar de plantear nuevas también y todo esto alrededor de los sitemás dinámicos. 
-
-Se pretende que el estudiante, en compañía de los intructores y en tiempos bien pensados, explore y aprenda nuevas herramientas no solo de índole analítica.
 
 # Metodología de trabajo
 * Se emitiran tres sesiones en video a la semana por youtube en el canal https://www.youtube.com/channel/UClc6hZcM5iHG7W6_dvBgaTg
@@ -54,8 +53,8 @@ Se pretende que el estudiante, en compañía de los intructores y en tiempos bie
     3. Sistemas conservativos, hamiltonianos y Lagrange.
     4. Hacias las cantidades conservadas
 5. Introducción al análisis de simetrías:
-    1. Superficies y grupos de Lie.
-    2. Simetrías y grupos.
+    1. Superficies, variedades y grupos de Lie.
+    2. Simetrías y grupos de transformaciones.
     3. Simetrías y cantidades conservadas.
 
 
